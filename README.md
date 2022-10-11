@@ -10,3 +10,7 @@ I'm aspiring front end developer looking for a entry level front job learning to
 - 📫 How to reach me: ... Linkedin(https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... We are coder!!!!!! what do we do?? we code.......
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
