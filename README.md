@@ -26,3 +26,10 @@ I'm aspiring front end developer looking for a entry level front job learning to
 # 📊 GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunabharadwaj&theme=dark&show_icons=true)
+
+### ✍️ Random Dev Quote
+
+
+"The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth."
+- Peter Abelard
+
