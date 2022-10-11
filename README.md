@@ -1,4 +1,6 @@
-### Hi there my name is Kuna Bharadwaj 👋
+### Hi there 👋 My name is Bharadwaj Kuna.
+
+I'm aspiring front end developer looking for a entry level front job learning to build functional and responsive websites have keen attention on every details of the design trying to learn efficient and scalable sites.
 
 - 🔭 I’m currently working on ... React Projects
 - 🌱 I’m currently learning ... React.JS and Front End Technologies
