@@ -16,5 +16,5 @@ I'm aspiring front end developer looking for a entry level front job learning to
 </div>
 
 #Let's connect
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)](https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bharadwaj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)](https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)
 
