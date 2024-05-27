@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Bharadwaj Kuna.
 
-I'm a FrontEnd Developer currently working with MandM a online Retail company.interested in building website using headless CMS.
+I'm a FrontEnd Developer currently working with Hoople. interested in building website using headless CMS.
 
-- 🔭 I’m currently working on ... Build Static sites using Headless CMS
+- 🔭 I’m currently working on ... Umbraco 13 Sites
 - 🌱 I’m currently learning ... Angular and Typescript
-- 👯 I’m looking to collaborate on ... Open Source projects
+- 👯 I’m looking to collaborate on ... Currently Collaborating Optagenon
 - 🤔 I’m looking for help with ... Almost everything 
 - 💬 Ask me about ... 3D Modelling
 - 📫 How to reach me: ... Linkedin(https://www.linkedin.com/in/bharadwaj-swamy-9502704569/)
